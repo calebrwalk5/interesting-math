@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int i = 1645497477;
+	int i = 27;
 	for(;;) {
 		printf("%d ", i);
 		if(i % 2 == 0) {
